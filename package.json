@@ -1,0 +1,26 @@
+{
+  "name": "react-native-toast-message",
+  "version": "1.0.0",
+  "description": "A customizable toast message component for React Native applications. Supports multiple themes, configurable duration, and flexible positioning.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MasonWen028/react-native-toast-message.git"
+  },
+  "keywords": [
+    "react-native",
+    "toast",
+    "message",
+    "notification",
+    "component"
+  ],
+  "author": "Mason Wen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MasonWen028/react-native-toast-message/issues"
+  },
+  "homepage": "https://github.com/MasonWen028/react-native-toast-message#readme"
+}
