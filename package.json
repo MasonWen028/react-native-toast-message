@@ -1,5 +1,5 @@
 {
-  "name": "react-native-toast-message",
+  "name": "react-native-toast-popup-message",
   "version": "1.0.0",
   "description": "A customizable toast message component for React Native applications. Supports multiple themes, configurable duration, and flexible positioning.",
   "main": "index.js",
@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/MasonWen028/react-native-toast-message/issues"
   },
-  "homepage": "https://github.com/MasonWen028/react-native-toast-message#readme"
+  "homepage": "https://github.com/MasonWen028/react-native-toast-message#readme",
+  "dependencies": {
+    "react-native": "^0.74.1",
+    "react-native-modal": "^13.0.1"
+  }
 }
